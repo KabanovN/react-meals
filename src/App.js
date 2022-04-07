@@ -14,7 +14,7 @@ import './App.css';
 function App() {
     return (
         <>
-            <Router>
+            <Router basename='/react-meals'>
                 <Header />
                 <main className='container content'>
                     <Routes>
