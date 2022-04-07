@@ -37,7 +37,6 @@ function Recipe() {
                             Category: {recipe.strCategory}
                         </h5>
                         <p className='recipe_descr'>{recipe.strInstructions}</p>
-
                         <table className='centered recipe_table'>
                             <thead>
                                 <tr>
