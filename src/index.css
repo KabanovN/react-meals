@@ -45,3 +45,8 @@ nav {
 .card-content {
     flex-grow: 1;
 }
+
+/* Recipe */
+.recipe_img {
+    max-width: 100%;
+}
